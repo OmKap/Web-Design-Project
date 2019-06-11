@@ -39,13 +39,22 @@ p  {
 	float: right;
 	background-color: gray;
 	width: 300px;
-	height: 250px;
+	height: 260px;
 	padding-left: 10px;
 	border-color: black;
 	border-style: solid;
 	text-align: justify;
 	color: #42ebf4;
 }	
+.stub {
+	float: center;
+	background-color: #d6e069;
+	width: 2100px;
+	height: 20px;
+	padding-left: 10px;
+	text-align: center;
+	color: black;
+}
 /*the text color for headings is currently a cyan-like color and fits with the background as it comes out clearly. the text color for paragraphs s currently a golden-ish 
 color and fits with the background as it comes out clearly, and isn't the same as headings for a bit more variety in color, and this makes it so that you dont get bored as quickly when reading (also makes it easier to see) */
 a:link {
